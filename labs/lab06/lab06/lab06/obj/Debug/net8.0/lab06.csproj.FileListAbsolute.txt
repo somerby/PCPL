@@ -1,0 +1,14 @@
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\bin\Debug\net8.0\lab06.exe
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\bin\Debug\net8.0\lab06.deps.json
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\bin\Debug\net8.0\lab06.runtimeconfig.json
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\bin\Debug\net8.0\lab06.dll
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\bin\Debug\net8.0\lab06.pdb
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.AssemblyInfoInputs.cache
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.AssemblyInfo.cs
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.csproj.CoreCompileInputs.cache
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.dll
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\refint\lab06.dll
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.pdb
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\lab06.genruntimeconfig.cache
+D:\учеба\парадигмы программирования\лабы\лаб6\lab06\lab06\obj\Debug\net8.0\ref\lab06.dll
